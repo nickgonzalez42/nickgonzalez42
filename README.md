@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm Nick 🧑‍💻
+
+![Chicago Water Tower](https://www.rentcafe.com/blog/wp-content/uploads/sites/62/2016/05/Water-Tower-Chicago-via-Antony-Caldaroni.jpg)
+
+I'm a chicago-based web developer and former logistics and shipping nerd (ask me about Owney the Unofficial Post Office Mascot). 
+
+- I’m currently enrolled in Actualize Boot Camp learning Ruby on Rails and React.
+- 
 
 <!--
 **nickgonzalez42/nickgonzalez42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
