@@ -4,7 +4,7 @@
 
 I'm a chicago-based web developer and former logistics and shipping nerd (ask me about Owney the Unofficial Post Office Mascot). 
 
--Pronouns: He/Him
+- Pronouns: He/Him
 - I’m currently enrolled in Actualize Boot Camp learning Ruby on Rails and React.
 - I love bicycling, horror movies (especially bad ones), comic books, Chicago, and have proudly been in the top 1% of Carly Rae Jepsen listeners for the last four years on Spotify.
 
